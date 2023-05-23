@@ -1,4 +1,4 @@
-# deskapp
+# EGEST
 
 EGEST est une application web de gestion de stock conçu avec du PHP natif. EGEST fonctionne comme tout autre application de gestion de stocks avec des fonctionnalités telles que: 
 - Ajouter/Editer/Supprimer des articles ou produits
