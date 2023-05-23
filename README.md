@@ -1,16 +1,14 @@
 # deskapp
 
-DeskApp Admin is a free to use Bootstrap 4 admin template. This template uses the default Bootstrap 4 styles along with a variety of powerful jQuery plugins and tools to create a powerful framework for creating admin panels or back-end dashboards.
-
-Theme uses several libraries for charts, calendar, text forms, date range, upload area, form autocomplete, range slider, progress bars, notifications and much more.
-
-We would love to see how you use this awesome admin template. You can notify us about your site. Once the list will grown long enough we will write a post similar to this to showcase the best examples.
+EGEST est une application web de gestion de stock conçu avec du PHP natif. EGEST fonctionne comme tout autre application de gestion de stocks avec des fonctionnalités telles que: 
+- Ajouter/Editer/Supprimer des articles ou produits
+- 
 
 # Quick start
 Several quick start options are available:
 * Clone the repo: git clone https://github.com/Ultra2000/EGEST.git
 * Install with npm: 
-  `npm install deskapp`
+  `npm install EGEST`
 
 ## Built With
 * Bootstrap 4
