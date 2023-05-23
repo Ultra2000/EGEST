@@ -8,7 +8,7 @@ We would love to see how you use this awesome admin template. You can notify us 
 
 # Quick start
 Several quick start options are available:
-* Clone the repo: git clone https://github.com/dropways/deskapp.git
+* Clone the repo: git clone https://github.com/Ultra2000/EGEST.git
 * Install with npm: 
   `npm install deskapp`
 
@@ -40,6 +40,7 @@ Several quick start options are available:
 * Sweetalert2
 * Switchery
 * Timedropper
+* PHP
 
 ## Sample Screens
 <img src="https://user-images.githubusercontent.com/38377336/86491687-03ca9a00-bd89-11ea-8a3a-11dcfcddd254.png" alt="Template 1">
