@@ -46,9 +46,7 @@ Several quick start options are available:
 ## Demo link
 A fully functional demo is available at
 
-- demo 1 https://dropways.github.io/deskapp/
-- demo 2 https://deskapp-dashboard.herokuapp.com/
-- demo 3 https://deskapp.netlify.app/
+- demo https://egest.frecorp.net/
 
 ## Bugs Reports
 Have a bug or a feature request? Please open a new issue.
